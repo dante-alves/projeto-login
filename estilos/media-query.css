@@ -20,7 +20,7 @@
 /* Demais mídias*/
 
 /* Telas médias */
-@media screen and (min-width:600px) and (max-width:992px){
+@media screen and (min-width:500px) and (max-width:992px){
     body {
         background-image: linear-gradient(to bottom, var(--cor1), var(--cor0));
     }
